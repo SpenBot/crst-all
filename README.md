@@ -1,5 +1,5 @@
 # crst-all
-BeerBase has separate front and backend repos.
+CRST has separate front and backend repos.
 
 # FRONT-END
 https://github.com/SpenBot/crst-frontend-deploy
