@@ -1,4 +1,4 @@
-# crast-all
+# crst-all
 BeerBase has separate front and backend repos.
 
 # FRONT-END
